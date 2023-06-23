@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Tema82-SOLID-Principles/1.0.0": {
+        "runtime": {
+          "Tema82-SOLID-Principles.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tema82-SOLID-Principles/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
